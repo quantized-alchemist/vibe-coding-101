@@ -1,0 +1,8 @@
+openai>=1.0.0
+python-dotenv>=1.0.0
+matplotlib>=3.5.0
+numpy>=1.21.0
+cursor-python>=1.0.0
+streamlit>=1.30.0
+tqdm>=4.66.0
+whisper-jax>=0.1.0

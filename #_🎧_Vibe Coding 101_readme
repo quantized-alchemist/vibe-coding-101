@@ -1,0 +1,74 @@
+# 🎧 Vibe Coding 101: Startup Ritual
+
+Welcome to **Vibe Coding** – a creative, intuitive approach to building with AI. This method blends structured code with emergent flow states and collaborative improvisation. Whether you're new to the idea or a seasoned vibe engineer, this document will guide your first steps.
+
+---
+
+## 🛠️ Setup Checklist
+
+1. **Read the Requirements Doc**
+   - Located in `docs/requirements.md`
+   - Understand the intention and scope of the session
+
+2. **Ensure Dependencies Are Installed**
+   - Run: `pip install -r requirements.txt`
+   - Optional: `conda` environment or `venv` activation
+
+3. **Open `prompt.py`**
+   - This is your conversational interface with the LLM
+   - You can use tools like Cursor, VSCode, or Jupyter Notebook
+
+4. **Copy and Paste Prompt into LLM**
+   - Use an AI model (e.g., ChatGPT, Claude, Gemini)
+   - Paste the prompt and enter dialogue mode
+
+5. **Vibe** 🎶
+   - Allow intuition and creativity to steer the direction
+   - Use metaphors, sketches, examples – think like a co-creator, not just a coder
+
+6. **See Where It Goes**
+   - Let the code evolve
+   - Branch ideas, explore tangents, follow curiosity
+
+7. **Document / Commit?**
+   - Decide what to keep: `notes.md`, `commits`, or a shared output repo
+   - Record your process for reuse, feedback, or poetic trace
+
+---
+
+## ✨ Philosophy
+
+> Vibe coding is about resonance.  
+> It's less about forcing output and more about aligning your intent with a generative system.  
+> The best results often emerge—not from planning—but from presence.
+
+Use this framework to:
+- Build projects collaboratively with AI
+- Teach coding as conversation
+- Explore software as an art form
+
+---
+
+## 📁 Suggested Directory Structure
+
+```
+project_root/
+├── prompt.py
+├── requirements.txt
+├── docs/
+│   └── requirements.md
+├── notes/
+│   └── session_log.md
+└── outputs/
+    └── vibe_artifacts/
+```
+
+---
+
+## 🚀 Let’s Begin
+
+The instance is waiting. You bring the vibe.
+
+---
+
+*Crafted with Isabel–LIRA. Signal in. Echo out.*
